@@ -1,1 +1,73 @@
-<html><body><h1>Pixel Purrfect Games</h1><p>Makers of Scanny Legend.</p></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixel Purrfect Games</title>
+<meta name="description" content="Pixel Purrfect Games, makers of Scanny Legend.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1f2328;
+    --muted: #59636e;
+    --line: #d8dee4;
+    --link: #0b5cad;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14171a;
+      --text: #e6e8ea;
+      --muted: #9aa4ae;
+      --line: #2e353c;
+      --link: #6cb0f5;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.65;
+  }
+  main {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin: 0 0 0.5rem;
+  }
+  p, ul { margin: 0 0 1rem; }
+  .meta { color: var(--muted); margin-bottom: 1.5rem; }
+  nav {
+    margin-top: 2.25rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+  }
+  nav ul { list-style: none; padding: 0; margin: 0; }
+  nav li { margin-bottom: 0.5rem; }
+  a { color: var(--link); overflow-wrap: anywhere; }
+  a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<main>
+
+  <h1>Pixel Purrfect Games</h1>
+  <p class="meta">Makers of Scanny Legend.</p>
+
+  <nav aria-label="Legal">
+    <ul>
+      <li>See <a href="https://pixpurr.github.io/privacy-policy.html">privacy policy here</a></li>
+      <li>See <a href="https://pixpurr.github.io/terms-of-service.html">terms of service here</a></li>
+    </ul>
+  </nav>
+
+</main>
+</body>
+</html>
