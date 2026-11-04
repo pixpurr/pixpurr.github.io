@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms of Service – Scanny Legend</title>
+<meta name="description" content="Terms of Service for Scanny Legend by Pixel Purrfect.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1f2328;
+    --muted: #59636e;
+    --line: #d8dee4;
+    --link: #0b5cad;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14171a;
+      --text: #e6e8ea;
+      --muted: #9aa4ae;
+      --line: #2e353c;
+      --link: #6cb0f5;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.65;
+  }
+  main {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin: 0 0 0.5rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+    line-height: 1.3;
+    margin: 2.25rem 0 0.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+  }
+  p, ul { margin: 0 0 1rem; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .meta { color: var(--muted); margin-bottom: 1.5rem; }
+  a { color: var(--link); overflow-wrap: anywhere; }
+  a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<main>
+
+  <h1>Terms of Service</h1>
+  <p class="meta"><strong>Scanny Legend</strong> by Pixel Purrfect &middot; Effective Date: November 4, 2026</p>
+
+  <p>These Terms of Service (the “Terms”) govern your use of the mobile game Scanny Legend (the “Application”), developed and published by Pixel Purrfect (“the Service Provider,” “we,” or “us”). By downloading, installing, or using the Application, you agree to these Terms. If you do not agree, please do not use the Application.</p>
+
+  <h2>1. Eligibility</h2>
+  <p>The Application is not directed toward children under 13, or any higher minimum age required by the law where you live. By using the Application, you confirm that you meet the applicable minimum age. If you are under the age of majority where you live, you confirm that a parent or guardian has reviewed these Terms and permits your use of the Application.</p>
+
+  <h2>2. License to Use the Application</h2>
+  <p>Subject to these Terms, we grant you a limited, personal, non-exclusive, non-transferable, revocable license to download, install, and use the Application on your personal device for non-commercial entertainment purposes. All rights not expressly granted are reserved by the Service Provider.</p>
+
+  <h2>3. Acceptable Use</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>copy, modify, translate, or create derivative works of the Application, except as allowed by law;</li>
+    <li>reverse engineer, decompile, or attempt to extract the source code of the Application, except as allowed by law;</li>
+    <li>sell, rent, lease, sublicense, or redistribute the Application;</li>
+    <li>cheat, tamper with, or interfere with the Application’s normal operation, including through automated tools, hacks, or modified versions;</li>
+    <li>interfere with or attempt to bypass any advertising features of the Application, such as by generating fraudulent ad impressions or clicks;</li>
+    <li>use the Application for any unlawful purpose.</li>
+  </ul>
+
+  <h2>4. Intellectual Property</h2>
+  <p>The Application, including its code, artwork, characters, sounds, music, names, logos, and gameplay, is owned by the Service Provider or its licensors and is protected by copyright, trademark, and other intellectual property laws. These Terms do not transfer any ownership rights to you.</p>
+
+  <h2>5. Advertising and Third-Party Services</h2>
+  <p>The Application is free to use and is supported by advertising. It uses Google AdMob to display ads. Ads may link to third-party websites, apps, or services that we do not control, and we are not responsible for their content, products, or practices. Your use of third-party services is governed by their own terms and policies. The collection and use of information in connection with advertising is described in our <a href="https://pixpurr.github.io/privacy-policy.html">privacy policy</a> and in <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a>.</p>
+
+  <h2>6. Sharing Feature</h2>
+  <p>The Application includes an optional feature that lets you share a link to the game using your device’s built-in sharing tools. You are responsible for what you choose to share and with whom. Content you share through other apps or services is governed by those providers’ terms and policies.</p>
+
+  <h2>7. Game Data</h2>
+  <p>Game progress, settings, high scores, and other save data are stored locally on your device. We do not back up or store this data, so it may be lost if you uninstall the Application, reset or change your device, or clear the app’s data. We are not responsible for any loss of game data.</p>
+
+  <h2>8. Updates and Changes to the Application</h2>
+  <p>We may update, modify, suspend, or discontinue the Application, or any feature of it, at any time. Some updates may be required for you to keep using the Application. We are not obligated to provide updates, support, or continued availability.</p>
+
+  <h2>9. Termination</h2>
+  <p>These Terms apply until terminated. You may stop using the Application at any time by uninstalling it. We may suspend or end your access to the Application at any time if you violate these Terms or if we discontinue the Application. Sections that by their nature should survive termination will survive.</p>
+
+  <h2>10. Disclaimer of Warranties</h2>
+  <p>The Application is provided “as is” and “as available,” without warranties of any kind, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement, to the fullest extent permitted by law. We do not guarantee that the Application will be uninterrupted, error-free, or free of harmful components.</p>
+
+  <h2>11. Limitation of Liability</h2>
+  <p>To the fullest extent permitted by law, the Service Provider will not be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of data, profits, or goodwill, arising out of or related to your use of the Application. Where liability cannot be excluded, our total liability to you for all claims relating to the Application will not exceed the amount you paid for the Application, which is zero for the free version.</p>
+
+  <h2>12. Your Statutory Rights</h2>
+  <p>Nothing in these Terms excludes or limits any rights or remedies you have under mandatory consumer protection laws where you live, including in the European Economic Area and the United Kingdom, or any liability that cannot be excluded or limited by law.</p>
+
+  <h2>13. Governing Law</h2>
+  <p>These Terms are governed by the laws of the United States, without regard to conflict of law rules. Subject to any mandatory consumer rights you have in your country of residence, any disputes arising from these Terms will be resolved under applicable law.</p>
+
+  <h2>14. Changes to These Terms</h2>
+  <p>We may update these Terms from time to time. Updates will be posted with a revised Effective Date. Continued use of the Application after changes take effect means you accept the updated Terms.</p>
+
+  <h2>15. Contact Us</h2>
+  <p>If you have questions about these Terms, contact:</p>
+  <p>Pixel Purrfect<br>
+  Email: <a href="mailto:pixelpurrfectgames@proton.me">pixelpurrfectgames@proton.me</a></p>
+
+</main>
+</body>
+</html>
